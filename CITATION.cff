@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: hackingstylometry
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Daniil
+    family-names: Skorinkin
+    email: daniil.skorinkin@uni-potsdam.de
+    affiliation: Universität Potsdam
+    orcid: 'https://orcid.org/0000-0002-1845-9974'
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7992416
+repository-code: 'https://github.com/DanilSko/hackingstylometry'
+abstract: Data for 'Hacking stylometry' paper in DSH
+keywords:
+  - stylometry
+  - pessoa
